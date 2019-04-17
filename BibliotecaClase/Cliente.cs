@@ -25,9 +25,22 @@ namespace BibliotecaClase
             get { return _rut; }
             set
             {
-                if (value != null)
+                if (value != null && value.Length>=9 || value.Length<=10)
                 {
+                    //validar rut
+                    if (value.Length==9)
+                    {
+                        _rut = 0 + _rut;
+                    }
+                                        
+                    _rut = _rut.ToUpper();
+                    _rut = _rut.Replace("-", "");
+
+
                     _rut = value;
+
+                    
+
                 }
                 else
                 {
@@ -162,6 +175,9 @@ namespace BibliotecaClase
             Empresa = empresa;
         }
 
-
+       
+        
+        
+        
     }
 }

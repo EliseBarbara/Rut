@@ -105,3 +105,6 @@ D:\UnBreakable\Vista\obj\Debug\WpfListadoCliente.baml
 D:\UnBreakable\Vista\obj\Debug\Vista.g.resources
 D:\UnBreakable\Vista\obj\Debug\Vista.Properties.Resources.resources
 D:\UnBreakable\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\ashre\OneDrive\Documentos\Rut\Vista\bin\Debug\Vista.exe.config
+C:\Users\ashre\OneDrive\Documentos\Rut\Vista\obj\Debug\Vista.exe
+C:\Users\ashre\OneDrive\Documentos\Rut\Vista\obj\Debug\Vista.pdb
