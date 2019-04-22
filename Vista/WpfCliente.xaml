@@ -26,7 +26,7 @@
             <Label x:Name="label_Copy4" Content="Teléfono:" HorizontalAlignment="Left" Margin="18,186,0,0" VerticalAlignment="Top"/>
             <Label x:Name="label_Copy5" Content="Actividad de la empresa:" HorizontalAlignment="Left" Margin="18,224,0,0" VerticalAlignment="Top"/>
             <Label x:Name="label_Copy6" Content="&#xD;&#xA;Tipo de empresa:" HorizontalAlignment="Left" Margin="18,247,0,0" VerticalAlignment="Top"/>
-            <TextBox x:Name="txtRut" HorizontalAlignment="Left" Controls:TextBoxHelper.Watermark="Ingrese Rut" Height="8" Margin="187,29,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="145" FontWeight="Normal"/>
+            <TextBox x:Name="txtRut" HorizontalAlignment="Left" Controls:TextBoxHelper.Watermark="Ingrese Rut sin DV" Height="8" Margin="187,29,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="145" FontWeight="Normal" LostFocus="txtRut_LostFocus" />
             <TextBox x:Name="txtRazon" HorizontalAlignment="Left" Controls:TextBoxHelper.Watermark="Ingrese Razón Social" Height="8" Margin="187,62,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="145" FontWeight="Normal"/>
             <TextBox x:Name="txtNombre" HorizontalAlignment="Left" Controls:TextBoxHelper.Watermark="Ingrese Nombre de contacto" Height="8" Margin="187,93,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="186" FontWeight="Normal"/>
             <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Controls:TextBoxHelper.Watermark="Ingrese Email" Height="8" Margin="187,124,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="186" FontWeight="Normal"/>
@@ -36,11 +36,12 @@
             <ComboBox x:Name="cbTipo" HorizontalAlignment="Left" Margin="187,263,0,0" VerticalAlignment="Top" Width="170" FontWeight="Normal"/>
             <Button x:Name="btnGuardar" Content="Guardar" HorizontalAlignment="Left" Margin="230,342,0,0" VerticalAlignment="Top" Width="75" Cursor="Arrow" FontWeight="Normal" Controls:ButtonHelper.PreserveTextCase="True" Click="btnGuardar_Click" RenderTransformOrigin="1.662,0.727"/>
             <Button x:Name="btnCancelar" Content="Salir" HorizontalAlignment="Left" Margin="397,389,0,-8" VerticalAlignment="Top" Width="75" FontWeight="Normal" Click="btnCancelar_Click"/>
-            <Button x:Name="btnPregunta" Content="?" HorizontalAlignment="Left" Margin="354,29,0,0" VerticalAlignment="Top" Width="33" Background="#FFCACACA" FontWeight="Normal" Height="25" Click="btnPregunta_Click"/>
-            <Button x:Name="btnBuscar" Content="Buscar" HorizontalAlignment="Left" Margin="408,29,0,0" VerticalAlignment="Top" Width="74" Background="#FFCACACA" FontWeight="Normal" Height="25" Click="btnBuscar_Click"/>
+            <Button x:Name="btnPregunta" Content="?" HorizontalAlignment="Left" Margin="385,29,0,0" VerticalAlignment="Top" Width="33" Background="#FFCACACA" FontWeight="Normal" Height="25" Click="btnPregunta_Click"/>
+            <Button x:Name="btnBuscar" Content="Buscar" HorizontalAlignment="Left" Margin="432,29,0,0" VerticalAlignment="Top" Width="74" Background="#FFCACACA" FontWeight="Normal" Height="25" Click="btnBuscar_Click"/>
             <Button x:Name="btnLimpiar" Content="Limpiar" HorizontalAlignment="Left" Margin="65,342,0,0" VerticalAlignment="Top" Width="75" FontWeight="Normal" Click="btnLimpiar_Click"/>
             <Button x:Name="btnEliminar" Content="Eliminar" HorizontalAlignment="Left" Margin="397,341,0,0" VerticalAlignment="Top" Width="75" FontWeight="Normal" BorderBrush="#FF707070" Click="btnEliminar_Click"/>
             <Button x:Name="btnModificar" Content="Actualizar" HorizontalAlignment="Left" Margin="230,389,0,-8" VerticalAlignment="Top" Width="85" FontWeight="Normal" BorderBrush="#FF707070" Click="btnModificar_Click" />
+            <TextBox x:Name="txtDV" HorizontalAlignment="Left" Height="8" Margin="347,29,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="26" FontWeight="Normal" LostFocus="txtRut_LostFocus" IsEnabled="False" />
         </Grid>
 
     </Grid>

@@ -17,3 +17,12 @@ C:\Users\yobit\Desktop\Duplicado Onbreak\UnBreakable\BibliotecaClase\bin\Debug\B
 C:\Users\yobit\Desktop\Duplicado Onbreak\UnBreakable\BibliotecaClase\obj\Debug\BibliotecaClases.csprojResolveAssemblyReference.cache
 C:\Users\yobit\Desktop\Duplicado Onbreak\UnBreakable\BibliotecaClase\obj\Debug\BibliotecaClase.dll
 C:\Users\yobit\Desktop\Duplicado Onbreak\UnBreakable\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+E:\Rut\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+E:\Rut\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+E:\Rut\BibliotecaClase\obj\Debug\BibliotecaClases.csprojResolveAssemblyReference.cache
+E:\Rut\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+E:\Rut\BibliotecaClase\obj\Debug\BibliotecaClase.pdb
+C:\Users\ashre\Desktop\Rut\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\ashre\Desktop\Rut\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\ashre\Desktop\Rut\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\ashre\Desktop\Rut\BibliotecaClase\obj\Debug\BibliotecaClase.pdb

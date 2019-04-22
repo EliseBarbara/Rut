@@ -12,3 +12,17 @@ C:\Users\chida\Desktop\Duplicado\UnBreakable\BibliotecaControlador\bin\Debug\Bib
 C:\Users\chida\Desktop\Duplicado\UnBreakable\BibliotecaControlador\obj\Debug\BibliotecaControlador.csprojResolveAssemblyReference.cache
 C:\Users\chida\Desktop\Duplicado\UnBreakable\BibliotecaControlador\obj\Debug\BibliotecaControlador.dll
 C:\Users\chida\Desktop\Duplicado\UnBreakable\BibliotecaControlador\obj\Debug\BibliotecaControlador.pdb
+E:\Rut\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll
+E:\Rut\BibliotecaControlador\bin\Debug\BibliotecaControlador.pdb
+E:\Rut\BibliotecaControlador\bin\Debug\BibliotecaClase.dll
+E:\Rut\BibliotecaControlador\bin\Debug\BibliotecaClase.pdb
+E:\Rut\BibliotecaControlador\obj\Debug\BibliotecaControlador.csprojResolveAssemblyReference.cache
+E:\Rut\BibliotecaControlador\obj\Debug\BibliotecaControlador.dll
+E:\Rut\BibliotecaControlador\obj\Debug\BibliotecaControlador.pdb
+C:\Users\ashre\Desktop\Rut\BibliotecaControlador\bin\Debug\BibliotecaControlador.dll
+C:\Users\ashre\Desktop\Rut\BibliotecaControlador\bin\Debug\BibliotecaControlador.pdb
+C:\Users\ashre\Desktop\Rut\BibliotecaControlador\bin\Debug\BibliotecaClase.dll
+C:\Users\ashre\Desktop\Rut\BibliotecaControlador\bin\Debug\BibliotecaClase.pdb
+C:\Users\ashre\Desktop\Rut\BibliotecaControlador\obj\Debug\BibliotecaControlador.csprojResolveAssemblyReference.cache
+C:\Users\ashre\Desktop\Rut\BibliotecaControlador\obj\Debug\BibliotecaControlador.dll
+C:\Users\ashre\Desktop\Rut\BibliotecaControlador\obj\Debug\BibliotecaControlador.pdb
